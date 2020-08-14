@@ -18,9 +18,9 @@
     
 }
 .productos{
-    width: 100%;
-    
+    width: 100%;   
 }
+
 .menu{
     display: inline-block;
     margin: 45px 0px 0px 10px;
@@ -148,4 +148,176 @@ span{
 }
 .eventico{
     visibility: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        height: 73.1px;
+        }
+    .menu{
+        margin: 23px 7px 0px 0px;
+        font-size: 8px;
+        padding: 0px;
+    }   
+    .productos{
+        margin-bottom: 0;
+    } 
+    .log{
+        height: 95px;
+margin-top: 0px;
+    }
+    .venta {
+        font-size: 29px;
+        margin-top: 34px;
+        }
+    .punticos{
+        margin-top: 3px;
+margin-bottom: -2px;
+    }  
+    .encuentra > p:nth-child(1) {
+        font-size: 15px;
+        }
+        section.section2:nth-child(3) > div:nth-child(1) > h2:nth-child(1) {
+            font-size: 26px;
+            margin-top: -168px;
+            }
+            .conoce2 {
+                margin-top: 0px;
+                }
+                .tradicion2 {
+                    margin-top: -87px;
+                    }   
+                    .encontrar1 {
+                        margin-top: 17px;
+                        }  
+                                          
+
+
+
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        height: 73.1px;
+        }
+    .menu{
+        margin: 23px 7px 0px 0px;
+        font-size: 8px;
+        padding: 0px;
+    }   
+    .productos{
+        margin-bottom: 0;
+    } 
+    .log{
+        height: 95px;
+margin-top: 0px;
+    }
+    .venta {
+        font-size: 29px;
+        margin-top: 34px;
+        }
+    .punticos{
+        margin-top: 3px;
+margin-bottom: -2px;
+    }  
+    .encuentra > p:nth-child(1) {
+        font-size: 15px;
+        }
+        section.section2:nth-child(3) > div:nth-child(1) > h2:nth-child(1) {
+            font-size: 26px;
+            margin-top: -168px;
+            }
+            .conoce2 {
+                margin-top: 0px;
+                }
+                .tradicion2 {
+                    margin-top: -87px;
+                    }   
+                    .encontrar1 {
+                        margin-top: 17px;
+                        }  
+                                          
+
+
+
+}
+
+@media screen and (max-width:360px){
+    .header {
+        height: 120px;
+        }
+        .log {
+            
+            height: 88px;
+            }
+            .menu{
+                margin: 0;
+                padding: 3px;
+                height: 34px;
+            }
+            li{
+                width: 30%;
+                padding: 2px;
+            }
+            .venta {
+                font-size: 15px;
+                }
+                .encuentra > p:nth-child(1) {
+                    font-size: 10px;
+                    }
+                    .encontrar1 {
+                        font-size: 14px;
+                        padding: 2px;
+                        border: 1px solid white;
+                        }
+                        section.section2:nth-child(3) > div:nth-child(1) > h2:nth-child(1) > strong:nth-child(1) {
+                            font-size: 15px;
+                            }
+                            .somos {
+                                font-size: 12px;
+                                margin-left: 0px;
+                                margin-right: 0px;
+                                line-height: 20px;
+                                }
+                                .valle {
+                                    font-size: 13px;
+                                    }
+                                    section.section2:nth-child(3) > div:nth-child(2) > img:nth-child(1) {
+                                        width: 177px;
+                                        height: 293px;
+                                        }  
+                                        section.section2:nth-child(4) > div:nth-child(1) {
+                                            margin: ;
+                                            margin-top: 96px;
+                                            }
+                                            
+                                            
+
+                                            .tradicion2 {
+                                                font-size: 23px;
+                                                }
+                                                .productos2 {
+                                                    font-size: 15px;
+                                                    }
+                                                    .somos2 {
+                                                        font-size: 11px;
+                                                        }
+                                                        .conoce2 {
+                                                            padding: 2px;
+                                                            font-size: 14px;
+                                                            }
+
+                                                            section.section2:nth-child(4) > div:nth-child(2) {
+                                                                width: 168px;
+                                                                }
+                                                                section.section2:nth-child(4) {
+                                                                    height: 380px;
+                                                                    }
+
+
+
+
+                                            
+
+
 }
